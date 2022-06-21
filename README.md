@@ -40,6 +40,10 @@
 Уровень A1-А2, начальный-элементарный. Использую Google Translate.
 
 <p align="center">📫 How to reach me: <a href="mailto:nikitka_ugatu@mail.ru">nikitka_ugatu@mail.ru</a></p>
+   <a href="https://t.me/joinchat/Vorobey_071">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
 
 <!--
 **NikV020/NikV020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
