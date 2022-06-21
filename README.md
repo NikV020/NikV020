@@ -34,7 +34,7 @@
 - В практических упражнениях применяю подход "один коммит, одна задача".
 
 ### Tools
-В качестве основной рабочей ОС использую <img height=150 src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 10. Для кодинга пользуюсь VS Code (Visual Studio Code) с множеством доп.плагинов, ускоряющих и корректирующих процесс кодинга.
+В качестве основной рабочей ОС использую <img height=10 src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 10. Для кодинга пользуюсь VS Code (Visual Studio Code) с множеством доп.плагинов, ускоряющих и корректирующих процесс кодинга.
 
 ### Знание английского
 Уровень A1-А2, начальный-элементарный. Использую Google Translate.
