@@ -1,5 +1,5 @@
 ## Welcome. I'm Nikita! 👋
-### Junior Frontend-Developer
+### Frontend-Developer (React.js)
 
 Ищу вакансию в сфере IT, фронтенд-разработчиком. 
 Освоил онлайн-курсы по HTML и CSS. 
