@@ -39,7 +39,7 @@
 ### Знание английского
 Уровень A1-А2, начальный-элементарный. Использую Google Translate.
 
-<p align="center">📫 How to reach me: <a href="mailto:nikitka_ugatu@mail.ru">nikitka_ugatu@mail.ru</a></p>
+<p align="center">📫 How to reach me: <a href="mailto:nikita_js@mail.ru">nikita_js@mail.ru</a></p>
   
 <p align='center'>
     <a href="https://t.me/Vorobey_071">
