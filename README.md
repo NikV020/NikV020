@@ -19,7 +19,7 @@ Front-End разработчик с 1-летним опытом работы. В
 ### JavaScript 
 - знаю базовые структуры данных JS;
 -  native JavaScript (ES6/ES2015);
--  dom-манипуляции, JSON, AJAX, Promise;
+-  dom-манипуляции, JSON, FetchAPI, Promise;
 <!-- - умею работать с асинхронными функциями;
 - использую современные возможности ECMAScript 2015+. -->
 
