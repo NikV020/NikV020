@@ -1,4 +1,4 @@
-# Welcome. I'm Nikita Vorobyev! 👋
+# Hello world! I'm Nikita Vorobyev👋
 ### Frontend-Developer (JavaScript/React.js)
 
 Front-End разработчик с опытом работы около 2-х лет. Владею HTML5, CSS3, JavaScript и современными библиотеками. Всегда
